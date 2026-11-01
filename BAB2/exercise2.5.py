@@ -1,0 +1,1 @@
+print (' reality club bilang , "funny how a reunion can hurt more than goodbye."')
