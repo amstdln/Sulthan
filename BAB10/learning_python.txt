@@ -1,0 +1,4 @@
+In Python you can membuat variabel untuk menyimpan data.
+In Python you can membuat list untuk menyimpan banyak nilai.
+In Python you can membuat fungsi agar kode bisa dipakai ulang.
+In Python you can membuat class untuk memodelkan objek.
